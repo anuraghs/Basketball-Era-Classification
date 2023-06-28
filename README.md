@@ -1,5 +1,5 @@
 # Basketball-Era-Classification
-Wrote a Juyptyer Notebook to classify NBA players by era using 2 algorithms: K-Means and Expectation-Maximization (EM) algorithm. Wrote both algorithms from scratch and compared their outpt classifications to the true labels of the dataset
+Wrote a Juypter Notebook to classify NBA players by era using 2 algorithms: K-Means and Expectation-Maximization (EM) algorithm. Wrote both algorithms from scratch and compared their outpt classifications to the true labels of the dataset
 
 # EM Algorithm
  
